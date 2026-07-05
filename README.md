@@ -219,17 +219,6 @@ This notebook:
 
 ---
 
-## Future Work
-
-- Real-time camera inference
-- Raspberry Pi / ESP32-CAM deployment
-- Integration with an autonomous inspection rover
-- Live monitoring dashboard
-- Object detection and localization of gear defects
-- Deployment using TensorRT or ONNX for edge inference
-
----
-
 ## Author
 
 **Giriraj Lakhani**
