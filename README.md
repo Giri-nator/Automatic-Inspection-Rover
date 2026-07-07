@@ -226,6 +226,11 @@ This notebook:
 B.Tech, Mechanical Engineering  
 Indian Institute of Technology (BHU), Varanasi
 
+**Priyanshu Tulsyan**
+
+B.Tech, Mechanical Engineering  
+Indian Institute of Technology (BHU), Varanasi
+
 ---
 
 ## License
